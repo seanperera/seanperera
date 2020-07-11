@@ -2,7 +2,9 @@
 
 I am passionate about architecting and developing solutions using Microsoft Azure Cloud, DevOps, Data & AI. 
 
+---
 
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/pererasean/)
 
 <!--
 **seanperera/seanperera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
