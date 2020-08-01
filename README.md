@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am passionate about architecting and developing solutions using Microsoft Azure Cloud, DevOps, Data & AI. 
+I am a passionate developer focus on helping organisations to fasttrack deployment of Microsoft cloud solutions.  
 
 ---
 
