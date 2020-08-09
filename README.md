@@ -1,6 +1,6 @@
-## Hi 👋
+## Hi 👋 
 
-I am a passionate developer focus on helping organisations to fasttrack deployment of Microsoft cloud solutions.  
+I am a passionate developer :technologist: focus on helping organisations :office: to fasttrack deployment of Microsoft cloud solutions :cloud:.  
 
 ### :mag: Currently focus on:
   - Azure
