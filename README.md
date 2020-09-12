@@ -1,4 +1,4 @@
-## Hi 👋 
+## Hi :wave:  
 
 I am a passionate developer :technologist: focus on helping organisations :office: to fasttrack deployment of Microsoft cloud solutions.  
 
